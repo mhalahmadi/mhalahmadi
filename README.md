@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mona
 - 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning laravel PHP and python, javascript
 
 <!---
 mhalahmadi/mhalahmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
